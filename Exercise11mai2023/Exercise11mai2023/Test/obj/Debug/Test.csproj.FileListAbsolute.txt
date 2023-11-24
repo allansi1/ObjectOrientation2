@@ -1,0 +1,7 @@
+D:\C#-IG 2023 OO\Test\Test\bin\Debug\Test.exe.config
+D:\C#-IG 2023 OO\Test\Test\bin\Debug\Test.exe
+D:\C#-IG 2023 OO\Test\Test\bin\Debug\Test.pdb
+D:\C#-IG 2023 OO\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+D:\C#-IG 2023 OO\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\C#-IG 2023 OO\Test\Test\obj\Debug\Test.exe
+D:\C#-IG 2023 OO\Test\Test\obj\Debug\Test.pdb

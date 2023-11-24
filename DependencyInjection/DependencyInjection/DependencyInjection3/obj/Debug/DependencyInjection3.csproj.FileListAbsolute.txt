@@ -1,0 +1,13 @@
+G:\$ Orienté Objet II\CS-IG\DependencyInjection\DependencyInjection3\bin\Debug\DependencyInjection3.exe.config
+G:\$ Orienté Objet II\CS-IG\DependencyInjection\DependencyInjection3\bin\Debug\DependencyInjection3.exe
+G:\$ Orienté Objet II\CS-IG\DependencyInjection\DependencyInjection3\bin\Debug\DependencyInjection3.pdb
+G:\$ Orienté Objet II\CS-IG\DependencyInjection\DependencyInjection3\obj\Debug\DependencyInjection3.csproj.CoreCompileInputs.cache
+G:\$ Orienté Objet II\CS-IG\DependencyInjection\DependencyInjection3\obj\Debug\DependencyInjection3.exe
+G:\$ Orienté Objet II\CS-IG\DependencyInjection\DependencyInjection3\obj\Debug\DependencyInjection3.pdb
+D:\C#-IG 2023\DependencyInjection\DependencyInjection3\bin\Debug\DependencyInjection3.exe.config
+D:\C#-IG 2023\DependencyInjection\DependencyInjection3\bin\Debug\DependencyInjection3.exe
+D:\C#-IG 2023\DependencyInjection\DependencyInjection3\bin\Debug\DependencyInjection3.pdb
+D:\C#-IG 2023\DependencyInjection\DependencyInjection3\obj\Debug\DependencyInjection3.csprojAssemblyReference.cache
+D:\C#-IG 2023\DependencyInjection\DependencyInjection3\obj\Debug\DependencyInjection3.csproj.CoreCompileInputs.cache
+D:\C#-IG 2023\DependencyInjection\DependencyInjection3\obj\Debug\DependencyInjection3.exe
+D:\C#-IG 2023\DependencyInjection\DependencyInjection3\obj\Debug\DependencyInjection3.pdb

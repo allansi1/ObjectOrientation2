@@ -1,0 +1,8 @@
+C:\Users\allan\Programmation OO II\ExamenFinal\ExamenFinal\bin\Debug\ExamenFinal.exe.config
+C:\Users\allan\Programmation OO II\ExamenFinal\ExamenFinal\bin\Debug\ExamenFinal.exe
+C:\Users\allan\Programmation OO II\ExamenFinal\ExamenFinal\bin\Debug\ExamenFinal.pdb
+C:\Users\allan\Programmation OO II\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.csproj.AssemblyReference.cache
+C:\Users\allan\Programmation OO II\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\allan\Programmation OO II\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.csproj.CoreCompileInputs.cache
+C:\Users\allan\Programmation OO II\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.exe
+C:\Users\allan\Programmation OO II\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.pdb

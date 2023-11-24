@@ -1,0 +1,13 @@
+
+Deuxième solution:  
+
+Pour garde les mutateurs et obtenir un bon héritage  
+ (c'est-à-dire, un héritage qui respecte le Principe de Substituition de Liskov). 
+ nous pourrions faire les classes Rectangle et Carre complètement separées. 
+ 
+ Mais alors nous perdrions le fait que Rectangle et Carre partagent plusieurs formules en commun. 
+ 
+ Alors, nous pouvons créer une classe abstraite por garder cettes formules communes. 
+ Dans ce cas, nous faisons les classes (concrètes) Rectangle et Carre de classes dérivées (enfants) 
+ de la classe abstraite.  
+ 

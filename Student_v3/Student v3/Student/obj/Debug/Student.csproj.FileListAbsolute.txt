@@ -1,0 +1,21 @@
+F:\$ Orienté Objet II\CS-IG\Student\Student\bin\Debug\Student.exe.config
+F:\$ Orienté Objet II\CS-IG\Student\Student\bin\Debug\Student.exe
+F:\$ Orienté Objet II\CS-IG\Student\Student\bin\Debug\Student.pdb
+F:\$ Orienté Objet II\CS-IG\Student\Student\obj\Debug\Student.csprojAssemblyReference.cache
+F:\$ Orienté Objet II\CS-IG\Student\Student\obj\Debug\Student.csproj.CoreCompileInputs.cache
+F:\$ Orienté Objet II\CS-IG\Student\Student\obj\Debug\Student.exe
+F:\$ Orienté Objet II\CS-IG\Student\Student\obj\Debug\Student.pdb
+F:\$ Orienté Objet II\CS-IG\Student v2\Student\bin\Debug\Student.exe.config
+F:\$ Orienté Objet II\CS-IG\Student v2\Student\bin\Debug\Student.exe
+F:\$ Orienté Objet II\CS-IG\Student v2\Student\bin\Debug\Student.pdb
+F:\$ Orienté Objet II\CS-IG\Student v2\Student\obj\Debug\Student.csprojAssemblyReference.cache
+F:\$ Orienté Objet II\CS-IG\Student v2\Student\obj\Debug\Student.csproj.CoreCompileInputs.cache
+F:\$ Orienté Objet II\CS-IG\Student v2\Student\obj\Debug\Student.exe
+F:\$ Orienté Objet II\CS-IG\Student v2\Student\obj\Debug\Student.pdb
+F:\C#-IG 2022\Student v3\Student\bin\Debug\Student.exe.config
+F:\C#-IG 2022\Student v3\Student\bin\Debug\Student.exe
+F:\C#-IG 2022\Student v3\Student\bin\Debug\Student.pdb
+F:\C#-IG 2022\Student v3\Student\obj\Debug\Student.csprojAssemblyReference.cache
+F:\C#-IG 2022\Student v3\Student\obj\Debug\Student.csproj.CoreCompileInputs.cache
+F:\C#-IG 2022\Student v3\Student\obj\Debug\Student.exe
+F:\C#-IG 2022\Student v3\Student\obj\Debug\Student.pdb

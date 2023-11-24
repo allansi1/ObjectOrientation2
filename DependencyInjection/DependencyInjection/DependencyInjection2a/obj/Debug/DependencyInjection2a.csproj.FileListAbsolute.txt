@@ -1,0 +1,6 @@
+D:\C#-IG 2023\DependencyInjection\DependencyInjection2a\bin\Debug\DependencyInjection2a.exe.config
+D:\C#-IG 2023\DependencyInjection\DependencyInjection2a\bin\Debug\DependencyInjection2a.exe
+D:\C#-IG 2023\DependencyInjection\DependencyInjection2a\bin\Debug\DependencyInjection2a.pdb
+D:\C#-IG 2023\DependencyInjection\DependencyInjection2a\obj\Debug\DependencyInjection2a.csproj.CoreCompileInputs.cache
+D:\C#-IG 2023\DependencyInjection\DependencyInjection2a\obj\Debug\DependencyInjection2a.exe
+D:\C#-IG 2023\DependencyInjection\DependencyInjection2a\obj\Debug\DependencyInjection2a.pdb

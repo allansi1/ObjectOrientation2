@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1500
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSegregationViolation", "InterfaceSegregationViolation\InterfaceSegregationViolation.csproj", "{59774F4D-8684-4D73-8788-B356EA66176A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSegregation", "InterfaceSegregation\InterfaceSegregation.csproj", "{FEAA6000-2BF3-470F-BFF2-362AFD5B7BA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59774F4D-8684-4D73-8788-B356EA66176A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59774F4D-8684-4D73-8788-B356EA66176A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59774F4D-8684-4D73-8788-B356EA66176A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59774F4D-8684-4D73-8788-B356EA66176A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEAA6000-2BF3-470F-BFF2-362AFD5B7BA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEAA6000-2BF3-470F-BFF2-362AFD5B7BA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEAA6000-2BF3-470F-BFF2-362AFD5B7BA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEAA6000-2BF3-470F-BFF2-362AFD5B7BA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E924CCA-4893-4166-81A6-2BAA19EBBB5B}
+	EndGlobalSection
+EndGlobal

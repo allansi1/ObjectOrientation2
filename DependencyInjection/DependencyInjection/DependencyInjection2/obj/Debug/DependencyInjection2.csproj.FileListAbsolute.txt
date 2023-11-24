@@ -1,0 +1,6 @@
+G:\$ Orienté Objet II\CS-IG\DependencyInjection\DependencyInjection2\bin\Debug\DependencyInjection2.exe.config
+G:\$ Orienté Objet II\CS-IG\DependencyInjection\DependencyInjection2\bin\Debug\DependencyInjection2.exe
+G:\$ Orienté Objet II\CS-IG\DependencyInjection\DependencyInjection2\bin\Debug\DependencyInjection2.pdb
+G:\$ Orienté Objet II\CS-IG\DependencyInjection\DependencyInjection2\obj\Debug\DependencyInjection2.csproj.CoreCompileInputs.cache
+G:\$ Orienté Objet II\CS-IG\DependencyInjection\DependencyInjection2\obj\Debug\DependencyInjection2.exe
+G:\$ Orienté Objet II\CS-IG\DependencyInjection\DependencyInjection2\obj\Debug\DependencyInjection2.pdb

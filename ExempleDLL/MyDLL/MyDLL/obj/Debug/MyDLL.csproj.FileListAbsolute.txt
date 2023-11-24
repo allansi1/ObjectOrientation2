@@ -1,0 +1,6 @@
+C:\Users\allan\Programmation OO II\ExempleDLL\MyDLL\MyDLL\bin\Debug\MyDLL.dll
+C:\Users\allan\Programmation OO II\ExempleDLL\MyDLL\MyDLL\bin\Debug\MyDLL.pdb
+C:\Users\allan\Programmation OO II\ExempleDLL\MyDLL\MyDLL\obj\Debug\MyDLL.csproj.AssemblyReference.cache
+C:\Users\allan\Programmation OO II\ExempleDLL\MyDLL\MyDLL\obj\Debug\MyDLL.csproj.CoreCompileInputs.cache
+C:\Users\allan\Programmation OO II\ExempleDLL\MyDLL\MyDLL\obj\Debug\MyDLL.dll
+C:\Users\allan\Programmation OO II\ExempleDLL\MyDLL\MyDLL\obj\Debug\MyDLL.pdb

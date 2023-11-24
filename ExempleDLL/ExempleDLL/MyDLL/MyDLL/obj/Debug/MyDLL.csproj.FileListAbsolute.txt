@@ -1,0 +1,5 @@
+D:\C#-IG 2023 OO\ExempleDLL\MyDLL\MyDLL\bin\Debug\MyDLL.dll
+D:\C#-IG 2023 OO\ExempleDLL\MyDLL\MyDLL\bin\Debug\MyDLL.pdb
+D:\C#-IG 2023 OO\ExempleDLL\MyDLL\MyDLL\obj\Debug\MyDLL.csproj.CoreCompileInputs.cache
+D:\C#-IG 2023 OO\ExempleDLL\MyDLL\MyDLL\obj\Debug\MyDLL.dll
+D:\C#-IG 2023 OO\ExempleDLL\MyDLL\MyDLL\obj\Debug\MyDLL.pdb

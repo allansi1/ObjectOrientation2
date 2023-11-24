@@ -1,0 +1,11 @@
+C:\Users\allan\Programmation OO II\ExempleDLL\Test\Test\bin\Debug\Test.exe.config
+C:\Users\allan\Programmation OO II\ExempleDLL\Test\Test\bin\Debug\Test.exe
+C:\Users\allan\Programmation OO II\ExempleDLL\Test\Test\bin\Debug\Test.pdb
+C:\Users\allan\Programmation OO II\ExempleDLL\Test\Test\bin\Debug\MyDLL.dll
+C:\Users\allan\Programmation OO II\ExempleDLL\Test\Test\bin\Debug\MyDLL.pdb
+C:\Users\allan\Programmation OO II\ExempleDLL\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\allan\Programmation OO II\ExempleDLL\Test\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\allan\Programmation OO II\ExempleDLL\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\allan\Programmation OO II\ExempleDLL\Test\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\allan\Programmation OO II\ExempleDLL\Test\Test\obj\Debug\Test.exe
+C:\Users\allan\Programmation OO II\ExempleDLL\Test\Test\obj\Debug\Test.pdb

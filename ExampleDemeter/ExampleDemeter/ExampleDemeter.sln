@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1500
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "a.violationDemeter", "a.violationDemeter\a.violationDemeter.csproj", "{3DBAD73E-3CF9-4525-B4DC-4663613FF776}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "b.SolutionDemeter", "b.SolutionDemeter\b.SolutionDemeter.csproj", "{6F276B1A-AA5F-4995-AF20-ED22DF9ED579}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DBAD73E-3CF9-4525-B4DC-4663613FF776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DBAD73E-3CF9-4525-B4DC-4663613FF776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DBAD73E-3CF9-4525-B4DC-4663613FF776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DBAD73E-3CF9-4525-B4DC-4663613FF776}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F276B1A-AA5F-4995-AF20-ED22DF9ED579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F276B1A-AA5F-4995-AF20-ED22DF9ED579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F276B1A-AA5F-4995-AF20-ED22DF9ED579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F276B1A-AA5F-4995-AF20-ED22DF9ED579}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DC75F7B-B25C-426C-A718-A74160647ABD}
+	EndGlobalSection
+EndGlobal

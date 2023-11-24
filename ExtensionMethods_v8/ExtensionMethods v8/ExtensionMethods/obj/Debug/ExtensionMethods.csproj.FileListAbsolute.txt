@@ -1,0 +1,43 @@
+D:\visual studio 2015\CS-LS-OO\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+D:\visual studio 2015\CS-LS-OO\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+D:\visual studio 2015\CS-LS-OO\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+D:\visual studio 2015\CS-LS-OO\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.csprojAssemblyReference.cache
+D:\visual studio 2015\CS-LS-OO\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.CoreCompileInputs.cache
+D:\visual studio 2015\CS-LS-OO\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+D:\visual studio 2015\CS-LS-OO\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.pdb
+F:\C# ADO.NET LS-W2023\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+F:\C# ADO.NET LS-W2023\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+F:\C# ADO.NET LS-W2023\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+F:\C# ADO.NET LS-W2023\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.csprojAssemblyReference.cache
+F:\C# ADO.NET LS-W2023\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.CoreCompileInputs.cache
+F:\C# ADO.NET LS-W2023\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+F:\C# ADO.NET LS-W2023\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.pdb
+G:\C# ADO.NET LS-W2023\ExtensionMethods v7\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+G:\C# ADO.NET LS-W2023\ExtensionMethods v7\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+G:\C# ADO.NET LS-W2023\ExtensionMethods v7\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+G:\C# ADO.NET LS-W2023\ExtensionMethods v7\ExtensionMethods\obj\Debug\ExtensionMethods.csprojAssemblyReference.cache
+G:\C# ADO.NET LS-W2023\ExtensionMethods v7\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.CoreCompileInputs.cache
+G:\C# ADO.NET LS-W2023\ExtensionMethods v7\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+G:\C# ADO.NET LS-W2023\ExtensionMethods v7\ExtensionMethods\obj\Debug\ExtensionMethods.pdb
+F:\C# ADO.NET LS-W2023\ExtensionMethods v7\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+F:\C# ADO.NET LS-W2023\ExtensionMethods v7\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+F:\C# ADO.NET LS-W2023\ExtensionMethods v7\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+F:\C# ADO.NET LS-W2023\ExtensionMethods v7\ExtensionMethods\obj\Debug\ExtensionMethods.csprojAssemblyReference.cache
+F:\C# ADO.NET LS-W2023\ExtensionMethods v7\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.CoreCompileInputs.cache
+F:\C# ADO.NET LS-W2023\ExtensionMethods v7\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+F:\C# ADO.NET LS-W2023\ExtensionMethods v7\ExtensionMethods\obj\Debug\ExtensionMethods.pdb
+G:\C# ADO.NET LS-W2023\ExtensionMethods v8\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+G:\C# ADO.NET LS-W2023\ExtensionMethods v8\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+G:\C# ADO.NET LS-W2023\ExtensionMethods v8\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+G:\C# ADO.NET LS-W2023\ExtensionMethods v8\ExtensionMethods\obj\Debug\ExtensionMethods.csprojAssemblyReference.cache
+G:\C# ADO.NET LS-W2023\ExtensionMethods v8\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.CoreCompileInputs.cache
+G:\C# ADO.NET LS-W2023\ExtensionMethods v8\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+G:\C# ADO.NET LS-W2023\ExtensionMethods v8\ExtensionMethods\obj\Debug\ExtensionMethods.pdb
+C:\Users\allan\Programmation OO II\ExtensionMethods_v8\ExtensionMethods v8\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+C:\Users\allan\Programmation OO II\ExtensionMethods_v8\ExtensionMethods v8\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+C:\Users\allan\Programmation OO II\ExtensionMethods_v8\ExtensionMethods v8\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+C:\Users\allan\Programmation OO II\ExtensionMethods_v8\ExtensionMethods v8\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.AssemblyReference.cache
+C:\Users\allan\Programmation OO II\ExtensionMethods_v8\ExtensionMethods v8\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.SuggestedBindingRedirects.cache
+C:\Users\allan\Programmation OO II\ExtensionMethods_v8\ExtensionMethods v8\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\allan\Programmation OO II\ExtensionMethods_v8\ExtensionMethods v8\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+C:\Users\allan\Programmation OO II\ExtensionMethods_v8\ExtensionMethods v8\ExtensionMethods\obj\Debug\ExtensionMethods.pdb

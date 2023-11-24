@@ -1,0 +1,6 @@
+
+Premère solution:  
+
+Sacrifier les mutateurs pour obtenir un bon héritage,  
+ c'est-à-dire, un héritage qui respecte le Principe de Substituition de Liskov. 
+Les classes Rectangle et Carre deviennent des classes d'objets immuables. 

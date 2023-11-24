@@ -1,0 +1,22 @@
+F:\C# Exemples\Student\Main1\bin\Debug\Main1.exe.config
+F:\C# Exemples\Student\Main1\bin\Debug\Main1.exe
+F:\C# Exemples\Student\Main1\bin\Debug\Main1.pdb
+F:\C# Exemples\Student\Main1\bin\Debug\Student.exe
+F:\C# Exemples\Student\Main1\bin\Debug\Student.pdb
+F:\C# Exemples\Student\Main1\bin\Debug\Student.exe.config
+F:\C# Exemples\Student\Main1\obj\Debug\Main1.csprojAssemblyReference.cache
+F:\C# Exemples\Student\Main1\obj\Debug\Main1.csproj.CoreCompileInputs.cache
+F:\C# Exemples\Student\Main1\obj\Debug\Main1.csproj.CopyComplete
+F:\C# Exemples\Student\Main1\obj\Debug\Main1.exe
+F:\C# Exemples\Student\Main1\obj\Debug\Main1.pdb
+F:\C#-IG 2022\Student (single file) v2\Main1\bin\Debug\Main1.exe.config
+F:\C#-IG 2022\Student (single file) v2\Main1\bin\Debug\Main1.exe
+F:\C#-IG 2022\Student (single file) v2\Main1\bin\Debug\Main1.pdb
+F:\C#-IG 2022\Student (single file) v2\Main1\bin\Debug\Student.exe
+F:\C#-IG 2022\Student (single file) v2\Main1\bin\Debug\Student.pdb
+F:\C#-IG 2022\Student (single file) v2\Main1\bin\Debug\Student.exe.config
+F:\C#-IG 2022\Student (single file) v2\Main1\obj\Debug\Main1.csprojAssemblyReference.cache
+F:\C#-IG 2022\Student (single file) v2\Main1\obj\Debug\Main1.csproj.CoreCompileInputs.cache
+F:\C#-IG 2022\Student (single file) v2\Main1\obj\Debug\Main1.csproj.CopyComplete
+F:\C#-IG 2022\Student (single file) v2\Main1\obj\Debug\Main1.exe
+F:\C#-IG 2022\Student (single file) v2\Main1\obj\Debug\Main1.pdb

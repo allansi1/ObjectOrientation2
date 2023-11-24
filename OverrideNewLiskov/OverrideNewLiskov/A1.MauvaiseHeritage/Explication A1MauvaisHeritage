@@ -1,0 +1,18 @@
+
+ L'interpretation de 
+ 
+ "La classe B est une classe dérivée de la classe A" 
+ 
+ comme:
+   
+ "B est un cas particulier de A : L’ensemble des objets de la classe B est  
+ un sous-ensemble de l’ensemble des objets de la classe A" 
+ 
+ peut mener à de mauvaise heritage. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

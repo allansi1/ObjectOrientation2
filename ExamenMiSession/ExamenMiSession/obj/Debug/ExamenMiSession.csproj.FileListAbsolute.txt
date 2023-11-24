@@ -1,0 +1,8 @@
+C:\Users\allan\Programmation OO II\ExamenMiSession\ExamenMiSession\bin\Debug\ExamenMiSession.exe.config
+C:\Users\allan\Programmation OO II\ExamenMiSession\ExamenMiSession\bin\Debug\ExamenMiSession.exe
+C:\Users\allan\Programmation OO II\ExamenMiSession\ExamenMiSession\bin\Debug\ExamenMiSession.pdb
+C:\Users\allan\Programmation OO II\ExamenMiSession\ExamenMiSession\obj\Debug\ExamenMiSession.csproj.AssemblyReference.cache
+C:\Users\allan\Programmation OO II\ExamenMiSession\ExamenMiSession\obj\Debug\ExamenMiSession.csproj.SuggestedBindingRedirects.cache
+C:\Users\allan\Programmation OO II\ExamenMiSession\ExamenMiSession\obj\Debug\ExamenMiSession.csproj.CoreCompileInputs.cache
+C:\Users\allan\Programmation OO II\ExamenMiSession\ExamenMiSession\obj\Debug\ExamenMiSession.exe
+C:\Users\allan\Programmation OO II\ExamenMiSession\ExamenMiSession\obj\Debug\ExamenMiSession.pdb

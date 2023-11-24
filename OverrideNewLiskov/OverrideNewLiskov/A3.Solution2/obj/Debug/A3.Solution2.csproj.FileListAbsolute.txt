@@ -1,0 +1,7 @@
+G:\C# Exemples\OverrideNewLiskov\A3.Solution2\obj\Debug\A3.Solution2.csprojAssemblyReference.cache
+G:\C# Exemples\OverrideNewLiskov\A3.Solution2\obj\Debug\A3.Solution2.csproj.CoreCompileInputs.cache
+G:\C# Exemples\OverrideNewLiskov\A3.Solution2\bin\Debug\A3.Solution2.exe.config
+G:\C# Exemples\OverrideNewLiskov\A3.Solution2\bin\Debug\A3.Solution2.exe
+G:\C# Exemples\OverrideNewLiskov\A3.Solution2\bin\Debug\A3.Solution2.pdb
+G:\C# Exemples\OverrideNewLiskov\A3.Solution2\obj\Debug\A3.Solution2.exe
+G:\C# Exemples\OverrideNewLiskov\A3.Solution2\obj\Debug\A3.Solution2.pdb

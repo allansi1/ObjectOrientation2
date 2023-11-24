@@ -1,0 +1,7 @@
+D:\C#-IG 2022\PairNat\PairNat\bin\Debug\PairNat.exe.config
+D:\C#-IG 2022\PairNat\PairNat\bin\Debug\PairNat.exe
+D:\C#-IG 2022\PairNat\PairNat\bin\Debug\PairNat.pdb
+D:\C#-IG 2022\PairNat\PairNat\obj\Debug\PairNat.csprojAssemblyReference.cache
+D:\C#-IG 2022\PairNat\PairNat\obj\Debug\PairNat.csproj.CoreCompileInputs.cache
+D:\C#-IG 2022\PairNat\PairNat\obj\Debug\PairNat.exe
+D:\C#-IG 2022\PairNat\PairNat\obj\Debug\PairNat.pdb

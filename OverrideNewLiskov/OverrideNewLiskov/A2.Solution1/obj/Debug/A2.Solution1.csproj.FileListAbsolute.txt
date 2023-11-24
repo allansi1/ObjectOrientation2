@@ -1,0 +1,14 @@
+G:\C# Exemples\OverrideNewLiskov\A2.Solution1\obj\Debug\A2.Solution1.csprojAssemblyReference.cache
+G:\C# Exemples\OverrideNewLiskov\A2.Solution1\obj\Debug\A2.Solution1.csproj.CoreCompileInputs.cache
+G:\C# Exemples\OverrideNewLiskov\A2.Solution1\bin\Debug\A2.Solution1.exe.config
+G:\C# Exemples\OverrideNewLiskov\A2.Solution1\bin\Debug\A2.Solution1.exe
+G:\C# Exemples\OverrideNewLiskov\A2.Solution1\bin\Debug\A2.Solution1.pdb
+G:\C# Exemples\OverrideNewLiskov\A2.Solution1\obj\Debug\A2.Solution1.exe
+G:\C# Exemples\OverrideNewLiskov\A2.Solution1\obj\Debug\A2.Solution1.pdb
+D:\C#-IG 2023\OverrideNewLiskov\A2.Solution1\bin\Debug\A2.Solution1.exe.config
+D:\C#-IG 2023\OverrideNewLiskov\A2.Solution1\bin\Debug\A2.Solution1.exe
+D:\C#-IG 2023\OverrideNewLiskov\A2.Solution1\bin\Debug\A2.Solution1.pdb
+D:\C#-IG 2023\OverrideNewLiskov\A2.Solution1\obj\Debug\A2.Solution1.csprojAssemblyReference.cache
+D:\C#-IG 2023\OverrideNewLiskov\A2.Solution1\obj\Debug\A2.Solution1.csproj.CoreCompileInputs.cache
+D:\C#-IG 2023\OverrideNewLiskov\A2.Solution1\obj\Debug\A2.Solution1.exe
+D:\C#-IG 2023\OverrideNewLiskov\A2.Solution1\obj\Debug\A2.Solution1.pdb

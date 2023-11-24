@@ -1,0 +1,14 @@
+G:\C# Exemples\OverrideNewLiskov\B1.MauvaiseHeritage\bin\Debug\B1.MauvaiseHeritage.exe.config
+G:\C# Exemples\OverrideNewLiskov\B1.MauvaiseHeritage\bin\Debug\B1.MauvaiseHeritage.exe
+G:\C# Exemples\OverrideNewLiskov\B1.MauvaiseHeritage\bin\Debug\B1.MauvaiseHeritage.pdb
+G:\C# Exemples\OverrideNewLiskov\B1.MauvaiseHeritage\obj\Debug\B1.NatPaireSolution-Hide.csprojAssemblyReference.cache
+G:\C# Exemples\OverrideNewLiskov\B1.MauvaiseHeritage\obj\Debug\B1.NatPaireSolution-Hide.csproj.CoreCompileInputs.cache
+G:\C# Exemples\OverrideNewLiskov\B1.MauvaiseHeritage\obj\Debug\B1.MauvaiseHeritage.exe
+G:\C# Exemples\OverrideNewLiskov\B1.MauvaiseHeritage\obj\Debug\B1.MauvaiseHeritage.pdb
+G:\C# Exemples\OverrideNewLiskov\B1.NatPaireSolution-Hide\obj\Debug\B1.NatPaireSolution-Hide.csprojAssemblyReference.cache
+G:\C# Exemples\OverrideNewLiskov\B1.NatPaireSolution-Hide\obj\Debug\B1.NatPaireSolution-Hide.csproj.CoreCompileInputs.cache
+G:\C# Exemples\OverrideNewLiskov\B1.NatPaireSolution-Hide\bin\Debug\B1.NatPaireSolution-Hide.exe.config
+G:\C# Exemples\OverrideNewLiskov\B1.NatPaireSolution-Hide\bin\Debug\B1.NatPaireSolution-Hide.exe
+G:\C# Exemples\OverrideNewLiskov\B1.NatPaireSolution-Hide\bin\Debug\B1.NatPaireSolution-Hide.pdb
+G:\C# Exemples\OverrideNewLiskov\B1.NatPaireSolution-Hide\obj\Debug\B1.NatPaireSolution-Hide.exe
+G:\C# Exemples\OverrideNewLiskov\B1.NatPaireSolution-Hide\obj\Debug\B1.NatPaireSolution-Hide.pdb

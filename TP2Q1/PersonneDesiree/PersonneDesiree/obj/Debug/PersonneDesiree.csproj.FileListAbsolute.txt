@@ -1,0 +1,8 @@
+C:\Users\allan\Programmation OO II\TP2Q1\PersonneDesiree\PersonneDesiree\obj\Debug\PersonneDesiree.csproj.AssemblyReference.cache
+C:\Users\allan\Programmation OO II\TP2Q1\PersonneDesiree\PersonneDesiree\obj\Debug\PersonneDesiree.csproj.SuggestedBindingRedirects.cache
+C:\Users\allan\Programmation OO II\TP2Q1\PersonneDesiree\PersonneDesiree\obj\Debug\PersonneDesiree.csproj.CoreCompileInputs.cache
+C:\Users\allan\Programmation OO II\TP2Q1\PersonneDesiree\PersonneDesiree\bin\Debug\PersonneDesiree.exe.config
+C:\Users\allan\Programmation OO II\TP2Q1\PersonneDesiree\PersonneDesiree\bin\Debug\PersonneDesiree.exe
+C:\Users\allan\Programmation OO II\TP2Q1\PersonneDesiree\PersonneDesiree\bin\Debug\PersonneDesiree.pdb
+C:\Users\allan\Programmation OO II\TP2Q1\PersonneDesiree\PersonneDesiree\obj\Debug\PersonneDesiree.exe
+C:\Users\allan\Programmation OO II\TP2Q1\PersonneDesiree\PersonneDesiree\obj\Debug\PersonneDesiree.pdb
